@@ -1,0 +1,12 @@
+[submodule "bamtools"]
+	path = bamtools
+	url = git://github.com/pezmaster31/bamtools.git
+[submodule "smithwaterman"]
+	path = smithwaterman
+	url = git://github.com/ekg/smithwaterman.git
+[submodule "Complete-Striped-Smith-Waterman-Library"]
+	path = Complete-Striped-Smith-Waterman-Library
+	url = git://github.com/mengyao/Complete-Striped-Smith-Waterman-Library.git
+[submodule "fastahack"]
+	path = fastahack
+	url = git://github.com/ekg/fastahack.git
